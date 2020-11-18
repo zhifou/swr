@@ -1,5 +1,5 @@
 {
-  "name": "swr",
+  "name": "vue-next-swr",
   "version": "1.0.0",
   "description": "缓存请求的中间件hook",
   "main": "dist/index.js",
@@ -23,6 +23,7 @@
   "author": "zhaoyadong",
   "license": "MIT",
   "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
     "typescript": "^4.0.5"
   },
   "dependencies": {
